@@ -7,3 +7,8 @@
 	path = xmarts/l10n-einvoice-mx-transfer-invoice
 	url = git@github.com:xmarts/l10n-einvoice-mx-transfer-invoice.git
 	branch = 14.0-sli
+
+[submodule "xmarts/SLI"]
+	path = xmarts/SLI
+	url = git@github.com:xmarts/SLI.git
+	branch = 14.0-fletex-old
