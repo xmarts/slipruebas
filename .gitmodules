@@ -7,8 +7,3 @@
 	path = xmarts/l10n-einvoice-mx-transfer-invoice
 	url = git@github.com:xmarts/l10n-einvoice-mx-transfer-invoice.git
 	branch = 14.0-sli
-
-[submodule "xmarts/h20"]
-	path = xmarts/h20
-	url = git@github.com:xmarts/h20.git
-	branch = 14.0-josuealfaro
